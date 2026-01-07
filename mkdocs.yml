@@ -1,0 +1,15 @@
+site_name: Hardware Synthesis Lab 2025
+site_url: https://2110363-HW-SYN-LAB.github.io/2025-docs
+repo_url: https://github.com/2110363-HW-SYN-LAB/2025-docs
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+  palette:
+    scheme: default
+
+nav:
+  - Home: index.md
